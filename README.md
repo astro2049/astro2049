@@ -2,9 +2,11 @@
 
 ### Hi there 👋
 
-> 野径云俱黑，江船火独明。
+> 千山鸟飞绝，万径人踪灭。
 >
-> 晓看红湿处，花重锦官城。
+> 孤舟蓑笠翁，独钓寒江雪。
+>
+> *—— 《江雪》，唐 · 柳宗元*
 
 Web developer🎏 · Currently travelling on *Terra 2*
 
