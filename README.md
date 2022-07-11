@@ -8,5 +8,5 @@
 >
 > *—— 《江雪》，唐 · 柳宗元*
 
-Web developer🎏 · Currently travelling on *Terra 2*
+Game Developer🎏 · Currently chilling on *Timber Hearth*
 
