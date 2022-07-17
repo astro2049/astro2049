@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astro2049&layout=compact&theme=gruvbox&exclude_repo=chat&count_private=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astro2049&layout=compact&theme=gruvbox&count_private=false&hide=Blade" />
 
 ### Hi there 👋
 
